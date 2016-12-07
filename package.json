@@ -1,5 +1,5 @@
 {
-  "name": "NodeChatSystem",
+  "name": "Chat",
   "version": "0.0.1",
   "description": "Realtime chat system for Tutorialzine.com",
   "main": "app.js",
@@ -11,7 +11,7 @@
     "chat",
     "system"
   ],
-  "author": "Nikolay Anastasov",
+  "author": "Yassine Fadhlaoui",
   "license": "MIT",
   "dependencies": {
     "ejs": "^1.0.0",
