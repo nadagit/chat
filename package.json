@@ -8,7 +8,7 @@
     "chat",
     "system"
   ],
-  "author": "Yassine Fadhlaoui",
+  "author": "Asma",
   "license": "MIT",
   "dependencies": {
     "ejs": "^1.0.0",
